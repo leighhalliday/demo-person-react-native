@@ -1,0 +1,12 @@
+{
+  "name": "DemoPersonList",
+  "displayName": "DemoPersonList",
+  "expo": {
+    "name": "DemoPersonList",
+    "slug": "DemoPersonList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
